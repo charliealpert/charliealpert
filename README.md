@@ -1,20 +1,10 @@
 ### Hello!
 
-<!--
-**charliealpert/charliealpert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is **Charlie Alpert**, and I am a pursuing my B.S in computer science at The University of Texas at Dallas. I am skilled in Java, C/C++, Python, JavaScript, and MIPS.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hi, my name is Charlie Alpert, and I am a computer science student at The University of Texas at Dallas. I am expected to graduate in the class of 2025.
-
-Currently, I am an outreach officer for the Artificial Intelligence Society at UTD where I organize the AIS hackathon, collaborate with other organizations, and connect with companies for events.
+<p align="center"><br />
+  <a href="https://www.linkedin.com/in/charliealpert/">
+    <img src="https://img.shields.io/badge/LinkedIn-charliealpert-2867B2">
+</p>
