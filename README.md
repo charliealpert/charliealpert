@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, my name is Charlie Alpert, and I am a computer science student at The University of Texas at Dallas. I am expected to graduate in the class of 2025.
+
+Currently, I am an outreach officer for the Artificial Intelligence Society at UTD where I organize the AIS hackathon, collaborate with other organizations, and connect with companies for events.
